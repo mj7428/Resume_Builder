@@ -1,0 +1,13 @@
+Name: Sanchit
+Gender: Male
+Father name: Mayank
+Password: sanchit
+City: Patna
+Email: sanchit@gmail.com
+Skills: java,python,c#,c++,react,mongodb
+College: Amity University
+Degree: MCA
+Linkedin: sanchit@linkdln
+Github: sanchit@github
+Contact: 9887837474
+Experience: Fresher, 10 year experience of backchodi

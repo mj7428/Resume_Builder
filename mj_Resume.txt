@@ -1,0 +1,13 @@
+Name: mj
+Gender: Male
+Father name: vj
+Password: m
+City: delhi
+Email: mj@gmail.com
+Skills: java
+College: amity
+Degree: mca
+Linkedin: mjlinkedin
+Github: mjgit
+Contact: 7655678
+Experience: no

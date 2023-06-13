@@ -1,0 +1,13 @@
+Name: Mayank
+Gender: Male
+Father name: Vinod Kumar Jain
+Password: 12345
+City: new delhi
+Email: mayank@gmail.com
+Skills: java , python , react , c++, c#,mongodb, nodejs,etc
+College: Amity University Noida
+Degree: MCA
+Linkedin: mayank@linkdin
+Github: mayank@github
+Contact: 7428722410
+Experience: build project e-commerce website, working on intern in code clause
